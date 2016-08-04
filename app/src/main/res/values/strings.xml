@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">滴答考勤</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">设置</string>
+
+    <string name="check_net">获取当前网络信息</string>
+</resources>
